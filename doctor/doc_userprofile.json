@@ -1,0 +1,16 @@
+ //gets data from backend for the user profile portal in doctor's login
+
+ {
+    "first_name":"",
+    "last_name":"",
+    "gender":"",
+    "address":"",
+    "state":"",
+    "pincode":"",
+    "contact":"",
+    "alternate_contact":"",
+    "email":"",
+    "alternate_email":"",
+    "marital":"",
+    "profile_pic":"s"
+}

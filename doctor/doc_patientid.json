@@ -1,0 +1,81 @@
+ //gets data from backend for the patient portal in doctor's loginw
+
+ {
+  "basic":
+  {
+    "name": "",
+    "age": "",
+    "gender": "",
+    "marital_status": ""
+  },
+  "contact":
+  {
+    "email": "",
+    "phone": "",
+    "state": "",
+    "city": ""
+  },
+  "health":
+  {
+    "height": "",
+    "weight": "",
+    "blood": ""
+  },
+  "other":
+  {
+    "guardian": "",
+  },
+  "today":
+  {
+    "examinations":
+    {
+      "temparature":"",
+      "height":"",
+      "weight":"",
+      "bp":"",
+      "pulse":"",
+      "respiratory_rate":""
+    },
+    "cheif_complaints":"",
+    "examination":"",
+    "diagnosis":"",
+    "investigation":"",
+    "advice":"",
+    "attachments":""
+  },
+  "medical_background":
+  {
+    "personal_history":"",
+    "family_history":"",
+    "ongoing_medications":"",
+    "allergies":"",
+    "lifestyle":"",
+    "surgeries":"",
+    "immunization":""
+  },
+  "previous_visits":
+  {
+    "appointment_no":"",
+    "doctor":"",
+    "diagnosistics":"",
+    "date":"",
+    "medication":"",
+    "download":"",
+    "report":""
+  },
+  "custom":
+  {
+    "data":""
+  },
+  "medications":
+  {
+    "previous_medications":
+    {
+      "name":""
+    },
+    "allergies":
+    {
+      "name":""
+    }z
+  }
+ }

@@ -1,0 +1,15 @@
+ //gets data from backend for the appointments portal in nurse's login
+
+ {
+    "appointment_status":"",
+    "patient_id":"",
+    "name":"",
+    "doctor":"",
+    "age":"",
+    "gender":"",
+    "phone":"",
+    "guardian":"",
+    "problem":"",
+    "last_visit":"",
+    "total_visits":"",
+}

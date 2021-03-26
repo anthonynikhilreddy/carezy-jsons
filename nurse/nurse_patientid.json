@@ -1,0 +1,65 @@
+ //gets data from backend for the patient portal in nurse's login
+
+ {
+  "basic":
+  {
+    "name": "",
+    "age": "",
+    "gender": "",
+    "marital_status": ""
+  },
+  "contact":
+  {
+    "email": "",
+    "phone": "",
+    "state": "",
+    "city": ""
+  },
+  "health":
+  {
+    "height": "",
+    "weight": "",
+    "blood": ""
+  },
+  "other":
+  {
+    "guardian": "",
+  },
+  "previous_visits":
+  {
+    "appointment_no":"",
+    "doctor":"",
+    "diagnosistics":"",
+    "date":"",
+    "medication":"",
+    "download":"",
+    "report":""
+  },
+  "medical_background":
+  {
+    "personal_history":"",
+    "family_history":"",
+    "ongoing_medications":"",
+    "allergies":"",
+    "lifestyle":"",
+    "surgeries":"",
+    "immunization":""
+  },
+  "patient_vitals":
+  {
+    "temparature":"",
+    "height":"",
+    "weight":"",
+    "bp":"",
+    "pulse":"",
+    "respiratory_rate":""
+  },
+  "medications":
+  {
+    "type":"",
+    "name":"",
+    "days":"",
+    "frequency":"",
+    "suggestions":""
+  }
+ }
