@@ -1,0 +1,12 @@
+ //gets data from backend for the bed status in admin's login
+
+ {
+    "floor":"",
+    "total_beds":"",
+    "available_beds":"",
+    "occupied_beds":"",
+    "not_in_use_beds":"",
+    "ambulance":"",
+    "attendance":"",
+    "total_income":""
+}

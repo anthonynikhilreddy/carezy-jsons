@@ -1,0 +1,15 @@
+ //gets data from backend for the appointments portal in admin's login
+
+ {
+    "patient_id":"",
+    "name":"",
+    "age":"",
+    "gender":"",
+    "phone":"",
+    "guardian":"",
+    "problem":"",
+    "last_visit":"",
+    "total_visits":"",
+    "type":"",
+    "status":""
+}

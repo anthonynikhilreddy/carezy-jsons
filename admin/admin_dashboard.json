@@ -1,0 +1,11 @@
+ //gets data from backend for the dashboard in admin's login
+
+ {
+    "income":"",
+    "appointments":"",
+    "beds":"",
+    "doctors":"",
+    "ambulance":"",
+    "attendance":"",
+    "total_income":"",
+}

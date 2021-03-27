@@ -1,0 +1,11 @@
+ //gets data from backend for the ambulance portal in admin's login
+
+ {
+    "vehicle_no":"",
+    "driver_name":"",
+    "driver_license":"",
+    "contact":"",
+    "vehicle_type":"",
+    "status":"",
+    "amount":"",
+}
