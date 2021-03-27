@@ -1,0 +1,9 @@
+ //gets data from backend for the reports portal in lab's login
+
+ {
+    "patient_id":"",
+    "patient_name":"",
+    "doctor_name":"",
+    "requested_date_time":"",
+    "status":""
+}
